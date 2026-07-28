@@ -1,0 +1,11 @@
+results/
+*.mp4
+*.bag
+*.h5
+*.pt
+*.onnx
+__pycache__/
+.venv/
+*.egg-info/
+.DS_Store
+third_party/unitree_*/
