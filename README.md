@@ -1,6 +1,6 @@
 # Unitree G1 Whole-Body Control
 
-Research project in **INSI Lab** (Professor Yanzhi Wang), Northeastern University.
+Research project in **INSI** (**I**nstitute for **I**ntelligent **N**etworked **S**ystems Laboratory), Professor Yanzhi Wang, Northeastern University.
 
 Whole-body control pipeline for the **Unitree G1** humanoid (real robot available), using **Unitree official simulation + SDK**, with a paper-oriented focus on **control algorithms**, stability, and measurable real-time behavior.
 

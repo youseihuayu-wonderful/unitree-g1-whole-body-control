@@ -1,6 +1,6 @@
 # 必知信息 + 学习路线（资料总览）
 
-面向：**INSI Lab**（Professor Yanzhi Wang）Unitree G1 whole-body control 三人小组（你 / 物理合作者 / 导师）  
+面向：**INSI**（Institute for Intelligent Networked Systems Laboratory，Professor Yanzhi Wang）Unitree G1 whole-body control 三人小组（你 / 物理合作者 / 导师）  
 时间框：约 2 个月，**控制主线优先**，VLA 后接。
 
 ---

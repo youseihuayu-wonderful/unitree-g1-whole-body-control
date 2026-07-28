@@ -1,6 +1,6 @@
 # Paper outline (draft)
 
-**Lab:** INSI Lab (Professor Yanzhi Wang), Northeastern University
+**Lab:** INSI (Institute for Intelligent Networked Systems Laboratory), Professor Yanzhi Wang, Northeastern University
 
 ## Working title options
 
