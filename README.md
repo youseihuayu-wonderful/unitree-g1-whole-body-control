@@ -29,6 +29,23 @@ Embodied-AI / VLA action sources are **future integration**, not month-1 deliver
 | Group fit | Control-algorithm contribution suitable for a paper |
 | Timeline | **~8 weeks** |
 
+### Hardware caveat
+
+**Left camera** was broken on demo day and is **glued back** — treat it as fragile; avoid stress on the head/left vision path and note any camera asymmetry in experiments.
+
+## Resources (all current materials)
+
+Canonical list with links and reading order:
+
+→ [`docs/resources.md`](docs/resources.md)
+
+Highlights:
+
+- Lab Google Doc (start at **Starting Point** tab)
+- Unitree G1 official developer docs
+- NVIDIA GR00T-WholeBodyControl + GEAR-SONIC
+- Pi0.5 and LingBot-VA (later VLA / video-action integration)
+
 ## 8-week plan
 
 | Week | Milestone | Done when |
