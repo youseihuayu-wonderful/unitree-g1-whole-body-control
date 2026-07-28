@@ -1,5 +1,7 @@
 # Paper outline (draft)
 
+**Lab:** INSI Lab (Professor Yanzhi Wang), Northeastern University
+
 ## Working title options
 
 1. Latency-Aware Whole-Body Tracking on a Unitree G1 Humanoid

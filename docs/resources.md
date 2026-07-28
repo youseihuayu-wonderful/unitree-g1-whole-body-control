@@ -2,7 +2,7 @@
 
 Last updated: 2026-07-28
 
-This is the working bibliography / doc set for the Unitree G1 whole-body control project.
+This is the working bibliography / doc set for the Unitree G1 whole-body control project in **INSI Lab** (Professor Yanzhi Wang).
 
 ## Start here (lab internal)
 
@@ -54,4 +54,4 @@ Use these as high-level WBC / humanoid control references. They are **not** a dr
 
 ## Team note
 
-Small team (student + physicist collaborator + advisor). Keep the first paper contribution **control-centric**; use VLA repos as optional upstream brains, not the critical path for week 1–4.
+Small **INSI Lab** team (student + physicist collaborator + advisor). Keep the first paper contribution **control-centric**; use VLA repos as optional upstream brains, not the critical path for week 1–4.

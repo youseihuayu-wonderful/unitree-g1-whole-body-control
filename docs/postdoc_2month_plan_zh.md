@@ -1,7 +1,7 @@
 # 博士后级 2 个月执行方案：Unitree G1 Whole-Body Control
 
 **项目：** Whole-Body Control for Unitree G1  
-**导师组：** Professor Yanzhi Wang, Northeastern University  
+**实验室：** **INSI Lab**（Professor Yanzhi Wang），Northeastern University  
 **团队：** 博士后/主责 1 人 + 物理合作者 1 人 + 导师  
 **硬约束：** G1 真机；官方 sim + SDK；偏控制算法、可发 paper；约 8 周  
 **成功定义（Must-hit）：** 1 篇可投稿的技术报告/论文初稿 + 可复现实验（sim 完整 + 真机子集）  
